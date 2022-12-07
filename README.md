@@ -49,4 +49,6 @@ In one of them, I was searching for bugs. Bugs found by me was reported to super
 
 * Bug on scouts.futbolkolektyw.pl site [LINK to bug](https://docs.google.com/document/d/101svQ25XWx8pXB1Fvl0e9QI0hUHf1dKJgB9xdP2C2c4/edit?usp=sharing)
 
+## Links
 
+* [Resume, CV profile](https://resume.io/r/7m2ct9W6D)
